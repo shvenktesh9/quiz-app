@@ -134,7 +134,3 @@ In this video, we will create a simple spinning loader in CSS that will be displ
 Resources
 
 -   [Create a CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
-
-## 13. Closing
-
-Thank you so much for going through this course. I truly hope that you enjoyed it and that you have improved your core Web Development skills!!
